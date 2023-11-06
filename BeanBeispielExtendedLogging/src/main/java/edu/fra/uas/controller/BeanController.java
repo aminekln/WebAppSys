@@ -8,6 +8,7 @@ import edu.fra.uas.service.MessageService;
 @Component
 public class BeanController {
 
+    // COMMENT
     @Autowired
     private MessageService messageService;
 
